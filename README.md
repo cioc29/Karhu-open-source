@@ -8,7 +8,7 @@ new dump is working ～
 * website: [Karhu](https://karhu.ac)
 
 ## Downloads
-**[Releases][https://github.com/cioc29/Karhu-open-source/releases/tag/anticheat]** Download.'
+**[Releases](https://github.com/cioc29/Karhu-open-source/releases/tag/anticheat)** Download.'
 
 ## The original dump project
 - [Originnal Repo](https://github.com/nuym/Open-Karhu)
